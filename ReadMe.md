@@ -67,7 +67,6 @@ pip install torch torchvision transformers datasets evaluate scikit-learn accele
 ```
 ### Dataset : https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset
 
-```markdown
 ### Visual Inference
 ![Model Predictions](inference_sample.png)
-```
+

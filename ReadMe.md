@@ -64,9 +64,10 @@ The model was trained for 5 epochs on a GPU (Tesla P100/T4).
 ### Install Dependencies
 ```bash
 pip install torch torchvision transformers datasets evaluate scikit-learn accelerate matplotlib
-
+```
 ### Dataset : https://www.kaggle.com/datasets/orvile/brain-cancer-mri-dataset
 
 ```markdown
 ### Visual Inference
 ![Model Predictions](inference_sample.png)
+```

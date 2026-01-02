@@ -8,7 +8,7 @@
 ## 📌 Project Overview
 This project implements a high-performance deep learning model for classifying brain tumors from MRI scans. Utilizing **Transfer Learning** with the **ConvNeXt V2** architecture (specifically `convnextv2-tiny-1k-224`), the model achieves state-of-the-art accuracy in differentiating between three types of brain tumors.
 
-The solution is designed for medical imaging tasks where precision and recall are critical, leveraging the Hugging Face `transformers` library for efficient fine-tuning.
+The solution is designed for medical imaging tasks where precision and recall are critical, leveraging the Hugging Face `transformers` library for efficient fine-tuning and kaggle platform for GPU support, so do not forget to change the file paths.
 
 ## 📊 Dataset
 The model was trained on a dataset containing MRI scans categorized into three classes.
